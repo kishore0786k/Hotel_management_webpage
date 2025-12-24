@@ -32,7 +32,7 @@ through an admin page. All data is stored in the browser using LocalStorage.
 ## Screenshots
 
 Home page  
-![Home](screenshots/home.png)
+![Home](screenshots/Home.png)
 
 Rooms page  
 ![Rooms](screenshots/rooms.png)
